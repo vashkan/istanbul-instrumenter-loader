@@ -190,8 +190,8 @@ The loader supports all options supported by `istanbul-lib-instrument`
 [deps]: https://david-dm.org/webpack-contrib/istanbul-instrumenter-loader.svg
 [deps-url]: https://david-dm.org/webpack-contrib/istanbul-instrumenter-loader
 
-[tests]: https://github.com/webpack-contrib/istanbul-instrumenter-loader/workflows/istanbul-instrumenter-loader/badge.svg
-[tests-url]: https://github.com/webpack-contrib/istanbul-instrumenter-loader/actions
+[tests]: https://github.com/vashkan/istanbul-instrumenter-loader/workflows/istanbul-instrumenter-loader/badge.svg
+[tests-url]: https://github.com/vashkan/istanbul-instrumenter-loader/actions
 
 [cover]: https://codecov.io/gh/webpack-contrib/istanbul-instrumenter-loader/branch/master/graph/badge.svg
 [cover-url]: https://codecov.io/gh/webpack-contrib/istanbul-instrumenter-loader
